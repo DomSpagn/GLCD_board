@@ -1,0 +1,17 @@
+Altium Designer Pick and Place Locations
+C:\Users\mimmo\Documents\Altium Designer\projects\GLCD_board\GLCD_board\Project Outputs for GLCD_Board\Pick Place for GLCD.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       30/05/20
+Time:       10:32
+Revision:   02802aeaad409a1398b6867cdb44fb0889027142
+Variant:    No variations
+Units used: mil
+
+Designator    Comment       Layer    Footprint   Center-X(mil) Center-Y(mil) Rotation Description          
+"GLCD 128x64" GLCD          TopLayer GLCD        1392.520      155.905       360      "Graphic LCD 128x64" 
+J3            "Connector 3" TopLayer 1X10_HEADER 2140.157      2373.228      360      "1x10 Header"        
+J2            "Connector 2" TopLayer 1X8_HEADER  2240.157      2273.228      360      "1x8 Header"         
+J1            "Connector 1" TopLayer 1X8_HEADER  2400.157      473.228       360      "1x8 Header"         
