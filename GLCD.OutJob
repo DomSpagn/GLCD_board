@@ -189,18 +189,18 @@ Configuration9_Name6=VisibleOrder_Flat
 Configuration9_Item6=Description=120|Designator=120|LibRef=120|Quantity=120
 
 [PublishSettings]
-OutputFilePath2=C:\Users\mimmo\Documents\Altium Designer\projects\GLCD_board\GLCD_board\Project Outputs for GLCD_Board\Assembly Drawings.PDF
+OutputFilePath2=C:\Users\mimmo\Documents\Altium Designer\projects\GLCD_board\GLCD_board\Project Outputs for GLCD_Board\OutputName\Assembly Drawings 2.PDF
 ReleaseManaged2=1
 OutputBasePath2=Project Outputs for GLCD_Board
-OutputPathMedia2=
-OutputPathMediaValue2=
+OutputPathMedia2==OutputName
+OutputPathMediaValue2==OutputName
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=Assembly Drawings 2.PDF
+OutputFileName2=GLCD.PDF
 OutputFileNameMulti2=
 UseOutputNameForMulti2=0
-OutputFileNameSpecial2=
+OutputFileNameSpecial2==VariantName
 OpenOutput2=1
 PromptOverwrite2=1
 PublishMethod2=0
@@ -216,17 +216,17 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=C:\Users\mimmo\Documents\Altium Designer\projects\GLCD_board\GLCD_board\Project Outputs for GLCD_Board\OutputType\
+OutputFilePath3=C:\Users\mimmo\Documents\Altium Designer\projects\GLCD_board\GLCD_board\Project Outputs for GLCD_Board\
 ReleaseManaged3=1
 OutputBasePath3=Project Outputs for GLCD_Board
-OutputPathMedia3==OutputType
+OutputPathMedia3=
 OutputPathMediaValue3==OutputType
-OutputPathOutputer3=
+OutputPathOutputer3=[Output Custom]
 OutputPathOutputerPrefix3=
-OutputPathOutputerValue3=
+OutputPathOutputerValue3==OutputName
 OutputFileName3=
-OutputFileNameMulti3=
-UseOutputNameForMulti3=1
+OutputFileNameMulti3==VariantName
+UseOutputNameForMulti3=0
 OutputFileNameSpecial3=
 OpenOutput3=1
 OutputFilePath4=
@@ -268,9 +268,9 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\mimmo\Documents\Altium Designer\projects\GLCD_board\GLCD_board\Project Outputs for GLCD_Board\Assembly Drawings.PDF
+RelativeOutputPath2=C:\Users\mimmo\Documents\Altium Designer\projects\GLCD_board\GLCD_board\Project Outputs for GLCD_Board\OutputName\Assembly Drawings 2.PDF
 OpenOutputs2=1
-RelativeOutputPath3=C:\Users\mimmo\Documents\Altium Designer\projects\GLCD_board\GLCD_board\Project Outputs for GLCD_Board\OutputType\
+RelativeOutputPath3=C:\Users\mimmo\Documents\Altium Designer\projects\GLCD_board\GLCD_board\Project Outputs for GLCD_Board\
 OpenOutputs3=1
 AddToProject3=1
 TimestampFolder3=0

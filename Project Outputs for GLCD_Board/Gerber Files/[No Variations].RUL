@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\mimmo\Documents\Altium Designer\projects\GLCD_board\GLCD_board\GLCD.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=21.26
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
